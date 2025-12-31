@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=Choi+Haeun&fontSize=70&fontAlign=50&fontAlignY=50&desc=Nice+to+meet+you&descSize=20&descAlign=50&descAlignY=60)
+
+
+### 🦾 Skills
+**🧑‍💻 Lang and Frameworks**
+![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![java](https://img.shields.io/badge/Java-000000.svg?&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white) 
+
+**🛠️ Infra and Tools**
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
+
 <!--
 **cheuneun/cheuneun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

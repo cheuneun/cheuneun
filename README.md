@@ -1,6 +1,7 @@
 ## Hi Hello 👋
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=360&text=Choi+Haeun&fontSize=70&fontAlign=30&fontAlignY=50&desc=Nice+to+meet+you&descSize=30&descAlign=22&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:ff9ccf,100:ffd1e8&height=360&text=Choi+Haeun&fontSize=70&fontAlign=30&fontAlignY=50&desc=Nice+to+meet+you&descSize=30&descAlign=22&descAlignY=60)
+
 
 ### 👩‍💻 About Me
 - 📚 빅데이터 분석 & Python 기반 개발에 관심 있어요

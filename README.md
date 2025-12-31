@@ -2,11 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:ff9ccf,100:ffd1e8&height=360&text=Choi+Haeun&fontSize=70&fontAlign=30&fontAlignY=50&desc=Nice+to+meet+you&descSize=30&descAlign=22&descAlignY=60)
 
+### 🧑‍💻 About Me
+- 2000/04/15
+- **My major**
+    - Computer science
+    - Financial Information Engineering
 
-### 👩‍💻 About Me
-- 📚 빅데이터 분석 & Python 기반 개발에 관심 있어요
-- 🧠 AI을 공부하고 있어요
-- 📝 금융권 IT/데이터 희망하고 있어요
 
 
 ### 🦾 Skills
@@ -15,6 +16,7 @@
 
 **🛠️ Infra and Tools**
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/microsoftexcel-217346.svg?&style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
 
 
 

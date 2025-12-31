@@ -17,6 +17,11 @@
 **🛠️ Infra and Tools**
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/microsoftexcel-217346.svg?&style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
+### 📊 Project
+- **로컬 Small LLM(ollama)을 활용하여 민원 텍스트 내 무단투기 여부를 자동 분류하는 시스템 개발**
+⚙ Skills : Python · PyTorch · Git · NLP · Clustering · Data Visualization · SHP Map
+
+
 
 
 
